@@ -1,5 +1,17 @@
 # Changelog
 
+## [5.1.0](https://github.com/ChainSafe/dappeteer/compare/v5.0.1...v5.1.0) (2023-04-18)
+
+
+### Features
+
+* triage issues github actions ([#301](https://github.com/ChainSafe/dappeteer/issues/301)) ([774958e](https://github.com/ChainSafe/dappeteer/commit/774958ea7dc92b77175bcbb89c736fbc72025756))
+
+
+### Bug Fixes
+
+* update minimum `playwright` peerDependencies ([#304](https://github.com/ChainSafe/dappeteer/issues/304)) ([90f45e0](https://github.com/ChainSafe/dappeteer/commit/90f45e0921ca9544197d24aa469f186417802fd8))
+
 ## [5.0.1](https://github.com/ChainSafe/dappeteer/compare/v5.0.0...v5.0.1) (2023-02-22)
 
 
