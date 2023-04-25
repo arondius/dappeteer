@@ -58,7 +58,7 @@ type DappeteerLaunchOptions = {
 };
 ```
 
-returns an instance of `DappeteerBrowser` for more information visit [browser page](docs/BROWSER.md)
+returns an instance of `DappeteerBrowser` for more information visit [browser page](BROWSER.md)
 
 <a name="setup"></a>
 ## `dappeteer.setupMetaMask(browser: Browser, options: MetaMaskOptions = {}, steps: Step[]): Promise<Dappeteer>`
